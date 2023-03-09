@@ -1,2 +1,2 @@
-# ui95-releases
+# ui95
 retro-look immediate-mode-style gui library for gamemaker.
